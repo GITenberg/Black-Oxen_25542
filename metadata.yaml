@@ -1,0 +1,33 @@
+_repo: Black-Oxen_25542
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Atherton, Gertrude Franklin Horn
+    aliases:
+    - Lin, Frank
+    - Horn, Gertrude Franklin
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '263'
+    url: http://www.gutenberg.org/2009/agents/263
+    wikipedia: http://en.wikipedia.org/wiki/Gertrude_Atherton
+description: A novel about a middle-aged woman rejuvenated by a glandular operation
+  to youthful external beauty and her romance with a younger playwright in New York;
+  based on author's own experience of glandular treatment.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2008-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25542'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 20th century'
+- !lcc 'PS'
+title: Black Oxen
+url: http://www.gutenberg.org/ebooks/25542
